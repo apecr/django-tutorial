@@ -53,3 +53,6 @@ python manage.py shell
 python manage.py createsuperuser
 
 ```
+
+## PART 3
+
