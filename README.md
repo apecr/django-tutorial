@@ -54,5 +54,9 @@ python manage.py createsuperuser
 
 ```
 
-## PART 3
+## Part 3 writing views
+## Part 4 forms and generic views
+## Part 5 testing Django views
+## Part 6
+## Part 7
 
